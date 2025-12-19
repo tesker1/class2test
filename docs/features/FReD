@@ -1,0 +1,9 @@
+Feature Name: Short, descriptive title for the feature.
+Goal: What problem does this feature solve? Why does it exist?
+User Story: As a [user type], I want to [goal], so that I can [benefit].
+Functional Requirements: List core behaviors the feature must support. Be specific and measurable.
+Data Requirements (optional): What new tables, fields, or relationships are needed? What existing data do we reuse?
+User Flow: Step-by-step actions the user performs from start to finish.
+Acceptance Criteria: Clear conditions defining when this feature is “done”.
+Edge Cases: List tricky scenarios the system must handle.
+Non-Functional Requirements (Optional): Performance, security, UX constraints
